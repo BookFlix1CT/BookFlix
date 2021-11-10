@@ -1,0 +1,64 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.BookFlix {
+    color: crimson;
+}
+
+.libros {
+    display: flex;
+}
+
+#El_Cid {
+    border-width: 5px;
+    border-color: white;
+    border-style: solid;
+}
+
+#Lucanor {
+    margin-left: 10px;
+    border-width: 5px;
+    border-color: white;
+    border-style: solid;
+}
+
+#Milagros {
+    margin-left: 10px;
+    border-width: 5px;
+    border-color: white;
+    border-style: solid;
+    width: 200px;
+    height: 381px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    
+}
+
+img {
+    width: 200px;
+    height: 300px;
+}
+
+.Humanismo {
+    display: flex;
+}
+
+#Coplas {
+    border-width: 5px;
+    border-color: white;
+    border-style: solid;
+    width: 200px;
+}
+
+#Celestina {
+    margin-left: 10px;
+    border-width: 5px;
+    border-color: white;
+    border-style: solid; 
+    height: 407px;
+}
